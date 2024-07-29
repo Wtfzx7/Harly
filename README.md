@@ -23,7 +23,7 @@ This website allows you to ask the big question, "I'm sorry for not being able t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CodeKageHQ/Ask-out-your-Valentine
+   https://github.com/Wtfzx7/Harly.git
    ```
 3. Open ```index.html``` in your browser to view the website.
 
@@ -44,4 +44,4 @@ Feel the love? Contributions are welcome! Whether it's a new GIF suggestion, des
 
 This project is open source and available under [MIT License](LICENSE).
 
-Happy Valentine's Day! Let's spread the love ❤️.
+Let's spread the love ❤️.
